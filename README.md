@@ -15,14 +15,14 @@ An example of a test is shown in the file : https://github.com/tanasa/homework.1
 
 The input files are : 
 
-input_transcripts_alignments.txt
+    input_transcripts_alignments.txt
 
-input_transcripts_positions.txt
+    input_transcripts_positions.txt
 
 and the output files are : 
 
-output_genome_positions.txt
+    output_genome_positions.txt
 
-output_genome_positions_voop.txt
+    output_genome_positions_voop.txt
   
 Each folder contains also the ipynb and html versions of the python scripts.
