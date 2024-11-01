@@ -12,4 +12,17 @@ The code of each implementation can be found in these two folders :
     version_procedural_programming (version_procedural_programming.py)
 
 An example of a test is shown in the file : https://github.com/tanasa/homework.1/blob/master/example.TR1.transcript.analysis.xls
+
+The input files are : 
+
+input_transcripts_alignments.txt
+
+input_transcripts_positions.txt
+
+and the output files are : 
+
+output_genome_positions.txt
+
+output_genome_positions_voop.txt
   
+Each folder contains also the ipynb and html versions of the python scripts.
