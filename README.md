@@ -4,6 +4,7 @@ The file also includes notes on the time complexity of the programs.
 We have developed two solutions:
 
     Solution 1 (Version 1) is implemented using a procedural approach.
+    
     Solution 2 (Version 2) utilizes an object-oriented approach.
 
 The code of each implementation can be found in these two folders : 
