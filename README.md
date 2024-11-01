@@ -5,9 +5,11 @@ We have developed two solutions:
     Solution 1 (Version 1) is implemented using a procedural approach.
     Solution 2 (Version 2) utilizes an object-oriented approach.
 
-The code of each implementation can be found in the folders : 
+The code of each implementation can be found in these two folders : 
 
-    version_oop
+    version_oop (version_OOP.py)
 
-    version_procedural_programming
+    version_procedural_programming (version_procedural_programming.py)
+
+An example of a test is shown in the file : https://github.com/tanasa/homework.1/blob/master/example.TR1.transcript.analysis.xls
   
