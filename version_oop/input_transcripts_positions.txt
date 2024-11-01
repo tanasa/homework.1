@@ -1,0 +1,5 @@
+transcript_name	transcript_coordinate
+TR1	4
+TR2	0
+TR1	13
+TR2	10
