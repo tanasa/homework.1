@@ -26,3 +26,9 @@ and the output files are :
     output_genome_positions_voop.txt
   
 Each folder contains also the ipynb and html versions of the python scripts.
+
+The documentation is included with the Python scripts. To execute them, simply type "python" followed by the script names : 
+
+    version_procedural_programming.py   
+
+    version_OOP.py
