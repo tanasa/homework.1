@@ -7,6 +7,7 @@ We have developed two solutions:
 
 The code of each implementation can be found in the folders : 
 
-version_oop
-version_procedural_programming
+    version_oop
+
+    version_procedural_programming
   
