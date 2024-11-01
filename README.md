@@ -5,4 +5,8 @@ We have developed two solutions:
     Solution 1 (Version 1) is implemented using a procedural approach.
     Solution 2 (Version 2) utilizes an object-oriented approach.
 
+The code of each implementation can be found in the folders : 
+
+version_oop
+version_procedural_programming
   
