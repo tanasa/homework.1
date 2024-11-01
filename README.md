@@ -1,4 +1,5 @@
 The problem we are working on is described in the file : https://github.com/tanasa/homework.1/blob/master/comments_2_versions_procedural_and_oop.doc
+The file also includes notes on the time complexity of the programs.
 
 We have developed two solutions:
 
